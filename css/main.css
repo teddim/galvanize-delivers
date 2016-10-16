@@ -1,0 +1,11 @@
+.hero {
+  background-image: url("../img/hero.jpg");
+  background-size: cover;
+  height: 50vh;
+  background-repeat: no-repeat;
+}
+
+/*need to find the materialize fix for this*/
+.center-fix {
+  width:100%;
+}
